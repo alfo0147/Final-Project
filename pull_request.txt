@@ -4,7 +4,7 @@ Jan:
 Feb: 
 Mar: 김미래
 Apr: 
-May: 
+May: 권의준
 Jun:
 Jul:
 Aug: 
@@ -15,7 +15,7 @@ Dec:
 
 Step2, Please append your own repository url. ( format is yourname:url )
 
-권의준:
+권의준: https://github.com/hiright
 김미래: https://github.com/alfo0147 
 오유진:
 정신유:
