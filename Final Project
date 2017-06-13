@@ -1,1 +1,2 @@
+print(classification_report(yj.iloc[:,0], SVC_pred))
 
